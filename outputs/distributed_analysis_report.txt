@@ -1,0 +1,34 @@
+Total Transactions: 10000
+Chunk Size: 1000
+Total Chunks: 10
+Chunk  1 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 40040500, 'total_quantity': 3000} 
+
+Chunk  2 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 45656100, 'total_quantity': 2970} 
+
+Chunk  3 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 44474800, 'total_quantity': 3023} 
+
+Chunk  4 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 43826300, 'total_quantity': 3021} 
+
+Chunk  5 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 39112300, 'total_quantity': 3029} 
+
+Chunk  6 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 44973200, 'total_quantity': 3067} 
+
+Chunk  7 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 43068600, 'total_quantity': 3061} 
+
+Chunk  8 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 41440300, 'total_quantity': 2974} 
+
+Chunk  9 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 43416800, 'total_quantity': 2966} 
+
+Chunk  10 : 1000  transactions 
+And its result is : {'total_transactions': 1000, 'total_revenue': 44776600, 'total_quantity': 3025} 
+
+Final_analysis :  {'grand_total_transactions': 10000, 'grand_total_revenue': 430785500, 'grand_total_quantity': 30136}
