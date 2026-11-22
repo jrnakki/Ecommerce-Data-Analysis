@@ -171,5 +171,7 @@ The program displays the calculated sales and revenue statistics in the terminal
 B.Tech – Information Technology
 
 Aspiring AI Engineer | Python | Data Science | Machine Learning
+
 ---
+
 *This project was developed as part of my hands-on learning journey in Data Science and Python programming.*
