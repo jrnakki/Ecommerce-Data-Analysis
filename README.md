@@ -63,6 +63,8 @@ Ecommerce-Data-Analysis/
 │   └── distributed_analysis.py
 │
 ├── outputs/
+│   ├── analysis_report.txt
+│   └── distributed_analysis_report.txt
 │
 └── README.md
 ```
