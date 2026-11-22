@@ -166,10 +166,10 @@ The program displays the calculated sales and revenue statistics in the terminal
 - Explore larger datasets and data-processing techniques.
 
 ## 👨‍💻 Author
-Nakshatra Singh
+**Nakshatra Singh**
 
 B.Tech – Information Technology
 
 Aspiring AI Engineer | Python | Data Science | Machine Learning
-
-This project was developed as part of my hands-on learning journey in Data Science and Python programming.
+---
+*This project was developed as part of my hands-on learning journey in Data Science and Python programming.*
