@@ -1,1 +1,13 @@
+{'UPI': 3224, 'Card': 3385, 'Cash': 3391}
+Total Transactions :  10000
+Total Revenue :  430785500
+Individual Product Revenue :  {'Laptop': 288500000, 'Mobile': 115560000, 'Headphone': 12510000, 'Keyboard': 9319500, 'Mouse': 4896000}
+Highest Revenue Product :  Laptop
+Total Quantity sold :  30136
+Product Wise Quantity :  {'Laptop': 5770, 'Mobile': 5778, 'Headphone': 6255, 'Keyboard': 6213, 'Mouse': 6120}
+Most Popular Product : Headphone
+Most Popular Payment Method :  Cash
+Average Transaction Value :  43078.55
+Percentage of UPI Transactions :  32.24
+Least popular method :  UPI
 
