@@ -2,7 +2,7 @@
 
 A beginner-friendly **Data Analysis project using Python** that simulates e-commerce transactions and analyzes sales data to extract meaningful business insights.
 
-The project generates a dataset of 10,000 synthetic transactions and performs analysis to understand revenue, product performance, and payment preferences.
+This project generates 10,000 synthetic e-commerce transactions and analyzes revenue, product performance, sales quantities, and payment preferences.
 
 ---
 
@@ -36,7 +36,7 @@ This project demonstrates how Python can be used to:
 | Random Module | Generating synthetic data |
 | Dictionaries | Storing and analyzing data |
 | VS Code | Development environment |
-| GitHub | Project hosting |
+| GitHub | Version control and project hosting |
 
 ## 📂 Project Structure
 
@@ -46,8 +46,11 @@ Ecommerce-Data-Analysis/
 ├── data/
 │   └── transactions.csv
 │
-├── generate_data.py
-├── analyse_data.py
+├── src/
+│   ├── generate_data.py
+│   └── analyse_data.py
+│
+├── outputs/
 │
 └── README.md
 ```
@@ -122,13 +125,15 @@ cd Ecommerce-Data-Analysis
 ### Step 3: Generate Transaction Data
 
 ```bash
-python generate_data.py
+python src/generate_data.py
 ```
+
+This generates the `transactions.csv` file inside the `data` folder.
 
 ### Step 4: Run Data Analysis
 
 ```bash
-python analyse_data.py
+python src/analyse_data.py
 ```
 
 The program displays the calculated sales and revenue statistics in the terminal.
@@ -153,20 +158,4 @@ The program displays the calculated sales and revenue statistics in the terminal
 
 ## 🔮 Future Improvements
 
-- Add data visualization using Matplotlib.
-- Generate automated analysis reports.
-- Implement error handling and data validation.
-- Perform deeper customer purchasing analysis.
-- Explore larger datasets and data-processing techniques.
-
-## 👨‍💻 Author
-
-**Nakshatra Singh**
-
-B.Tech – Information Technology
-
-Aspiring AI Engineer | Python | Data Science | Machine Learning
-
----
-
-*This project was developed as part of my hands-on learning journey in Data Science and Python programming.*
+- Add
