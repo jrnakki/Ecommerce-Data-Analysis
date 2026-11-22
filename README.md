@@ -51,6 +51,7 @@ Ecommerce-Data-Analysis/
 │   └── analyse_data.py
 │
 ├── outputs/
+│   └── analysis_report.txt
 │
 └── README.md
 ```
