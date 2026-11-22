@@ -159,4 +159,14 @@ The program displays the calculated sales and revenue statistics in the terminal
 
 ## 🔮 Future Improvements
 
-- Add
+-Add data visualization using Matplotlib.
+-Generate automated analysis reports.
+-Implement error handling and data validation.
+-Perform deeper customer purchasing analysis.
+-Explore larger datasets and data-processing techniques.
+
+## 👨‍💻 Author
+Nakshatra Singh
+B.Tech – Information Technology
+Aspiring AI Engineer | Python | Data Science | Machine Learning
+This project was developed as part of my hands-on learning journey in Data Science and Python programming.
