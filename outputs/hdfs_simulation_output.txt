@@ -1,1 +1,36 @@
-
+Total Transactions : 10000
+Block Size : 1000
+Total Blocks : 10
+Datanode_1 : 4  blocks 
+Datanode_2 : 3  blocks 
+Datanode_3 : 3  blocks 
+Block 1  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 4  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 7  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 10  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 2  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 5  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 8  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 3  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 6  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 9  :  ['DataNode 1', 'DataNode 2', 'DataNode 3']
+Block 1  :  ['DataNode 2', 'DataNode 3']
+Block 4  :  ['DataNode 2', 'DataNode 3']
+Block 7  :  ['DataNode 2', 'DataNode 3']
+Block 10  :  ['DataNode 2', 'DataNode 3']
+Block 2  :  ['DataNode 2', 'DataNode 3']
+Block 5  :  ['DataNode 2', 'DataNode 3']
+Block 8  :  ['DataNode 2', 'DataNode 3']
+Block 3  :  ['DataNode 2', 'DataNode 3']
+Block 6  :  ['DataNode 2', 'DataNode 3']
+Block 9  :  ['DataNode 2', 'DataNode 3']
+Block  1  :  1000  transactions 
+Block  2  :  1000  transactions 
+Block  3  :  1000  transactions 
+Block  4  :  1000  transactions 
+Block  5  :  1000  transactions 
+Block  6  :  1000  transactions 
+Block  7  :  1000  transactions 
+Block  8  :  1000  transactions 
+Block  9  :  1000  transactions 
+Block  10  :  1000  transactions 
