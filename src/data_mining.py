@@ -44,8 +44,7 @@ def analyse_customer_spending(transactions):
     for data in transactions:
         if data["customer_ID"] not in customer_spending:
             customer_spending[data["customer_ID"]] = 0
-        else:
-            customer_spending[data["customer_ID"]] += int(data["quantity"])* int(data["price"])
+        customer_spending[data["customer_ID"]] += int(data["quantity"]) * int(data["price"])
 
     return customer_spending
 
